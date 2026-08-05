@@ -58,7 +58,7 @@ background:#fff;
 }
 .hero {
     position: relative;
-    background: url('../img/bannerhome.png') center/cover no-repeat;
+    background: url('../bannerhome.png') center/cover no-repeat;
    
     margin-top: 85px;
 }
